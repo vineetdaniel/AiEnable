@@ -3,12 +3,12 @@ theme = "coder" # set the theme
 [params] # theme parameters
     author = "AiEnable" # author's name
     info = "DevOps | Development | VAPT | AWS | ReCoding | Scaling | Cloud" # author's job title or info
-    description = "John Doe's personal website" # site description
+    description = "Want to know more, let's start a conversation" # site description
     keywords = "blog,developer,personal" # site keywords
 
     # wether you want to hide copyright and credits in the footer
     hideCredits = true
-    hideCopyright = false
+    hideCopyright = true
     math=true
     
 # Social links
